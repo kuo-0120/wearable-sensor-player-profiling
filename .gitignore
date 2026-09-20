@@ -1,0 +1,13 @@
+.venv/
+venv/
+gpu-ml/
+__pycache__/
+data/
+39_Training_Dataset/
+39_Test_Dataset/
+tabular_data*/
+features_train/
+models/
+catboost_info/
+submission*.csv
+*.pkl
